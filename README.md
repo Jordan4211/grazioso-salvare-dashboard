@@ -1,6 +1,5 @@
 # Grazioso Salvare Rescue Dog Dashboard
 
-## Final Reflection
 
 ### 1. How do you write programs that are maintainable, readable, and adaptable?
 
